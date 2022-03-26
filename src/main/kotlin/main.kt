@@ -7,5 +7,5 @@ fun main() {
         else 35_00
         println("Комиссия за перевод составит $commission копеек")
     }
-    println("Досвидания")
+    println("До встречи!")
 }
